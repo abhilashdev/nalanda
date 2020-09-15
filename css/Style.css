@@ -1,0 +1,47 @@
+#HH{
+text-align:center;
+}
+ul {
+    list-style-type: none;
+    margin:0;
+    margin-right: 215px;
+    margin-left: 215px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+    
+}
+
+li {
+    float: left;
+	
+}
+
+li a {
+    display: block;
+    color: white;
+   text-align:center;
+    padding: 16px;
+    text-decoration: none;
+	}
+	li a:hover{
+	 background-color: blue;
+}
+.heading{
+text-align:center;
+color:red;
+}
+.paragraph {
+margin-left:200px;
+margin-right:700px;
+}
+.boxes {
+float:left;
+border:2px solid green;
+width:450px;
+height:200px;
+margin-left:500px;
+margin-right:500px;
+}
+
+
